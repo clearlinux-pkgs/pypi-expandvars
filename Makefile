@@ -1,5 +1,5 @@
 PKG_NAME := pypi-expandvars
-URL = https://files.pythonhosted.org/packages/3f/95/e334f9a24445f5fb0467842b1dcdd0e3b2f7393206fd517313f157358c1b/expandvars-0.8.0.tar.gz
+URL = https://files.pythonhosted.org/packages/ad/85/41c70ce5525a41f6bbdca3c5882d285acbea896ca9f776d8378cd452d505/expandvars-0.9.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
