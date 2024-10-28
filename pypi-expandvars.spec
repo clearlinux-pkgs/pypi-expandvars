@@ -7,7 +7,7 @@
 #
 Name     : pypi-expandvars
 Version  : 0.12.0
-Release  : 20
+Release  : 21
 URL      : https://files.pythonhosted.org/packages/2b/a5/46d1f58edcae1d632fafdfee313e378240e002ae45d26502bac938bd8751/expandvars-0.12.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2b/a5/46d1f58edcae1d632fafdfee313e378240e002ae45d26502bac938bd8751/expandvars-0.12.0.tar.gz
 Summary  : Expand system variables Unix style
